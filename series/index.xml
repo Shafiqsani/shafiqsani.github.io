@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Introduction</title>
+    <link>http://shafiqsani.github.io/series/</link>
+    <description>Recent content in Series on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2006 15:04:05 +0000</lastBuildDate><atom:link href="http://shafiqsani.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>operating system</title>
+      <link>http://shafiqsani.github.io/series/operating-system/</link>
+      <pubDate>Mon, 02 Jan 2006 15:04:05 +0000</pubDate>
+      
+      <guid>http://shafiqsani.github.io/series/operating-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

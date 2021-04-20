@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>http://shafiqsani.github.io/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2006 15:04:05 +0000</lastBuildDate><atom:link href="http://shafiqsani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photography</title>
+      <link>http://shafiqsani.github.io/projects/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shafiqsani.github.io/projects/photography/</guid>
+      <description> Sometimes I take pictures </description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://shafiqsani.github.io/projects/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shafiqsani.github.io/projects/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://shafiqsani.github.io/projects/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shafiqsani.github.io/projects/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>build a 64-bit operating system</title>
+      <link>http://shafiqsani.github.io/blog/configuration/</link>
+      <pubDate>Mon, 02 Jan 2006 15:04:05 +0000</pubDate>
+      
+      <guid>http://shafiqsani.github.io/blog/configuration/</guid>
+      <description>In this blog we build our first 64-bit operating system using asm and C code.
+Problem Statement Task 1: Use the video links given below to build the 64 bit operating system. You can use the first video as learning example.
+Task 2: You need to print SEECS or NUST (logo or text) using the characters (alphabetic, *, and / etc on the screen as shown in the image attached) instead of OK text as shown in the video.</description>
+    </item>
+    
+  </channel>
+</rss>
